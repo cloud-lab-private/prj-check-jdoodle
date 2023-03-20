@@ -1,1 +1,11 @@
-Interviews is a live and interactive coding environment inside HackerRank for hiring companies to conduct technical interviews. Typically, in a company’s hiring process, candidates who clear their initial level of assessments are subsequently invited to participate in a coding interview on HackerRank's Interview platform which is fully remote. It is also a great platform for candidates to showcase their problem-solving and programming knowledge skills to their interviewers.
+A palindrome is a word, phrase, number, or other sequence of characters which reads the same backward or forward.
+Given a string A, print Yes if it is a palindrome, print No otherwise.
+
+Constraints
+ A will consist at most 50 lower case english letters.
+ 
+Sample Input
+madam
+
+Sample Output
+Yes
