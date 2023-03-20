@@ -1,0 +1,2 @@
+Input: Madam, Output: Yes
+Input: Java, Output: No
