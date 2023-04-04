@@ -1,2 +1,2 @@
-Input: Madam, Output: Yes\n
-Input: Java, Output: No\n
+Input: Madam, Output: Yes
+Input: Java, Output: No
